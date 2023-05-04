@@ -1,6 +1,6 @@
-# BCGen
+# SCGen
 
-BCGen is a project to automatically generate block comments for given code snippets with their contexts.
+SCGen is a project to automatically generate snippet comments for given code snippets with their contexts.
 The source code and dataset are opened.
 
 # Requirements
